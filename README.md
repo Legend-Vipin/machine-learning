@@ -16,11 +16,21 @@ This project aims to provide a comprehensive collection of machine learning algo
 ## Installation
 
 To get started with this project, you need to clone the repository and install the necessary dependencies.
-
+```bash
+# Create a virtual environment
+python -m venv myenv
+```
 ```bash
 git clone https://github.com/Legend-Vipin/machine-learning.git
 cd machine-learning
+# Create a virtual environment
+python -m venv myenv
 pip install -r requirements.txt
+# Activate the virtual environment
+# For Windows
+myenv\Scripts\activate
+# For macOS and Linux
+source myenv/bin/activate
 
 Usage
 You can run the machine learning scripts provided in this repository. Here are some basic usage examples:
