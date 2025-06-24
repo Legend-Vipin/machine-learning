@@ -1,0 +1,43 @@
+City Population,Continent,Venue Capacity,Day of Week,Multiple Concerts,Sold Out
+13515000,North America,8000,Monday,1,0
+13515000,North America,8000,Tuesday,1,1
+12478447,North America,15000,Wednesday,1,1
+12478447,North America,15000,Thursday,1,0
+27500000,North America,11000,Friday,1,1
+27500000,North America,11000,Saturday,1,1
+2187526,North America,14900,Sunday,1,1
+21515000,North America,12300,Monday,1,1
+3076047,North America,22800,Tuesday,0,0
+9120350,North America,33200,Wednesday,0,1
+12678079,North America,39100,Thursday,1,1
+12678079,North America,39100,Friday,1,1
+6747815,North America,14900,Sunday,0,0
+9736586,Europe,30500,Sunday,0,0
+15519267,Europe,18700,Monday,1,0
+5367206,Europe,21000,Tuesday,1,1
+5367206,Europe,21000,Wednesday,1,1
+10782810,Europe,26500,Thursday,0,1
+3331000,Europe,23200,Friday,0,1
+2870733,Europe,8000,Saturday,0,1
+5635127,Europe,20200,Sunday,0,1
+14862000,Europe,11300,Monday,0,1
+883305,Europe,15600,Tuesday,0,0
+14910352,Europe,33900,Wednesday,0,0
+2581079,Europe,12900,Thursday,0,1
+31400000,North America,26700,Friday,1,1
+31400000,North America,26700,Saturday,1,1
+2693976,North America,34600,Sunday,0,0
+76750000,North America,8400,Monday,1,1
+9751717,North America,8400,Tuesday,0,0
+1793579,North America,18300,Wednesday,0,1
+4397073,South America,29100,Thursday,1,1
+4397073,South America,26400,Friday,1,0
+3520031,South America,33900,Saturday,0,0
+7592871,South America,15600,Sunday,0,0
+1808000,South America,15000,Monday,0,1
+794128,South America,21000,Tuesday,0,0
+7592871,Asia,28500,Wednesday,1,1
+7592871,Asia,28500,Thursday,1,1
+13698000,Asia,28500,Friday,1,1
+13698000,Asia,23200,Saturday,1,1
+13698000,Asia,23200,Sunday,1,0
